@@ -1,4 +1,4 @@
-theme Develtio
+
 
 Użyte technologie:
 -wordpress(CPT, bloki gutenberg)
